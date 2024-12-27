@@ -1,0 +1,9 @@
+(executable
+ (public_name yahtzee)
+ (name main)
+ (libraries yahtzee))
+
+(executable
+ (public_name fib)
+ (name fib)
+ (libraries yahtzee))
